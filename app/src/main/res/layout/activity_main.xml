@@ -59,7 +59,7 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="200dp"
+        android:layout_width="220dp"
         android:layout_height="50dp"
         android:background="@drawable/round_rect_buttom"
         android:contentDescription="@string/click"
